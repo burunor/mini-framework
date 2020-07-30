@@ -1,0 +1,15 @@
+{
+    "name": "burunor/mini-framework",
+    "authors": [
+        {
+            "name": "Bruno Dantas",
+            "email": "bruno.roquedantas@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "app\\" : "app/"
+        }
+    }
+}
