@@ -1,2 +1,2 @@
 # mini-framework
-Mini PHP Framework
+Mini PHP Framework MVC
